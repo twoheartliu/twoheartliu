@@ -1,3 +1,6 @@
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=twoheartliu&layout=compact&hide=html)
+![Status](https://github-readme-stats.vercel.app/api?username=twoheartliu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&line_height=23)
+
 <h1 align="center">Hi 👋, I'm twoheart</h1>
 <h3 align="center">A mysterious frontend developer from China!</h3>
 
@@ -6,10 +9,3 @@
 - 📝 I regulary write articles on [https://twoheart.cn](https://twoheart.cn)
 
 - 📫 You can reach me at **twoheart@vip.qq.com**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twoheartliu&layout=compact&hide=html" alt="twoheartliu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twoheartliu&show_icons=true" alt="twoheartliu" /></p>
-
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=twoheartliu&layout=compact&hide=html)
-![Status](https://github-readme-stats.vercel.app/api?username=twoheartliu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&line_height=23)
