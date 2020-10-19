@@ -2,7 +2,7 @@
 ![Status](https://github-readme-stats.vercel.app/api?username=twoheartliu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&line_height=21)
 
 <h1 align="center">Hi 👋, I'm twoheart</h1>
-<h3 align="center">A mysterious frontend developer from China!</h3>
+<h3 align="center">A mysterious frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twoheartliu" alt="twoheartliu" /> </p>
 
