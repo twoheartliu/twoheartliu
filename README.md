@@ -8,4 +8,4 @@
 
 - 📝 I regulary write articles on [https://www.yuque.com/twoheart](https://www.yuque.com/twoheart)
 
-- 📫 You can reach me at **twoheart@vip.qq.com**
+- 📫 You can reach me at **twoheartliu@gmail.com**
