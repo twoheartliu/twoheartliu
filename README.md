@@ -1,5 +1,9 @@
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=twoheartliu&layout=compact&hide=html&card_width=300)
-![Status](https://github-readme-stats.vercel.app/api?username=twoheartliu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&line_height=25)
+<a href="https://github.com/twoheartliu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twoheartliu&layout=compact&hide=html&card_width=300" />
+</a>
+<a href="https://github.com/twoheartliu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=twoheartliu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&line_height=25" />
+</a>
 
 <h1 align="center">Hi 👋, I'm twoheart</h1>
 <h3 align="center">A mysterious frontend developer</h3>
